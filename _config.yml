@@ -39,7 +39,7 @@ organization-logo-nav: https://library.pepperdine.edu/
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: weisman_test3 - weisman_test3.csv
+metadata: weisman_metadata_final.csv
 # contentdm collection name, matches collection ID used by CDM
 cdm-collection-id: Weisman Museum of Art Collection
 # CONTENTdm server url
