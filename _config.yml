@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: https://cdm15730.contentdm.oclc.org/digital
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /cdm/sites/15730/data/p15730coll35
+baseurl: 
 # location of code, the full url to your github repository
 source-code: https://github.com/gdo390/pepperdine
 
