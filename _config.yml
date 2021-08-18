@@ -41,7 +41,7 @@ organization-logo-nav: https://community.pepperdine.edu/imc/images/brand/pepp-fo
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
 metadata: weisman_metadata_final
 # contentdm collection name, matches collection ID used by CDM
-cdm-collection-id: Weisman Museum of Art Collection
+cdm-collection-id: p15730coll35
 # CONTENTdm server url
 cdm-url: https://cdm15730.contentdm.oclc.org/digital/
 # page generation settings [optional!]
