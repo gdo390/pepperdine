@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://cdm15730.contentdm.oclc.org/digital
+url: https://cdm15730.contentdm.oclc.org
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
@@ -43,7 +43,7 @@ metadata: weisman_metadata_final
 # contentdm collection name, matches collection ID used by CDM
 cdm-collection-id: p15730coll35
 # CONTENTdm server url
-cdm-url: https://cdm15730.contentdm.oclc.org/digital/
+cdm-url: https://cdm15730.contentdm.oclc.org/
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
