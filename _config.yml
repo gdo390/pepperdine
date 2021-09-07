@@ -20,10 +20,10 @@ source-code: https://github.com/gdo390/pepperdine
 # title of site appears in banner
 title: Frederick R. Weisman Museum of Art Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection featuring a selection of artwork  
+tagline: Digital Collection featuring pieces from the Weisman Museum of Art 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A selection of works of art from the Frederick R. Weisman Museum of Art from Pepperdine University" 
+description: "A selection of digitized artwork from the Frederick R. Weisman Museum of Art at Pepperdine University" 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: art;art history;Pepperdine University;Weisman Museum 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
