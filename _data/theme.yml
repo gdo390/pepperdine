@@ -65,9 +65,9 @@ metadata-facets-fields: "subject,creator,format"
 # ADVANCED OPTIONS
 #
 # CDM image % for IIIF
-image-percentage-large: # default 70
-image-percentage-medium: # default 40 
-image-percentage-small: # default 20
+image-percentage-large: 40 # default 70
+image-percentage-medium: 20 # default 40 
+image-percentage-small: 10 # default 20
 
 # NAVBAR COLORS
 # navbar text color
