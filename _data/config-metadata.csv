@@ -1,6 +1,6 @@
 field,display_name,browse_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
-creator,Creator,,DCTERMS.creator,creator
+creator,Artist,,DCTERMS.creator,creator
 recipient,Recipient,
 date,Date Created,,DCTERMS.created,dateCreated
 date-is-approximate,Approximated Date
@@ -10,9 +10,9 @@ subject,Subjects,true,DCTERMS.subject,keywords
 location,Location,,,contentLocation
 latitude,Latitude
 longitude,Longitude
-source,Source
-identifier,Source Identifier
+source,Publisher
+identifier,File Name
 type,Type,,DCTERMS.type
-format original,Format Original
+format original,Medium and Support
 format,Format,,,encodingFormat
-rightsstatement,,,DCTERMS.rights,license
+rightsstatement,Copyright,,,DCTERMS.rights,license
