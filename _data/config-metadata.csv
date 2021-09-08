@@ -1,6 +1,6 @@
 field,display_name,browse_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
-creator,Artist,,DCTERMS.creator,creator
+artist,Artist,,DCTERMS.creator,creator
 recipient,Recipient,
 date,Date Created,,DCTERMS.created,dateCreated
 date-is-approximate,Approximated Date
@@ -15,4 +15,4 @@ identifier,File Name
 type,Type,,DCTERMS.type
 format original,Medium and Support
 format,Format,,,encodingFormat
-rightsstatement,Copyright,,,DCTERMS.rights,license
+rightsstatement,Copyright,,DCTERMS.rights,license
